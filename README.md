@@ -1,5 +1,4 @@
 @@ -1,54 +1,54 @@
-# 👋 Merhaba, ben Onur — Junior Data Scientist & AI Enthusiast
 # 👋 Merhaba, ben Onur TİLKİ
 
 🎯 **Pozisyon / Job Title:** Junior Data Scientist & AI Enthusiast | Python | SQL | Machine Learning | Generative AI
