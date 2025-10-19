@@ -1,4 +1,4 @@
-@@ -1,54 +1,54 @@
+
 # 👋 Merhaba, ben Onur TİLKİ
 
 🎯 **Pozisyon / Job Title:** Junior Data Scientist & AI Enthusiast | Python | SQL | Machine Learning | Generative AI
@@ -25,11 +25,6 @@ I’m passionate about transforming **data into meaningful insights** and buildi
 
 ---
 
-## 🌊 Öne Çıkan Proje / Featured Project
-
-🎧 [**PromptWave**](https://github.com/username/PromptWave) — AI tabanlı ses üretimi projesi / AI audio generation project  
-
----
 
 
 ## 🏷️ Teknoloji Rozetleri / Tech Badges
