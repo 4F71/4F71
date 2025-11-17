@@ -36,21 +36,9 @@ class MLEngineer:
             "Production RAG Systems (LangChain + Vector DBs)",
             "End-to-end ML Pipelines (Feature Engineering → Deployment)"
         ]
-        
-        self.recent_work = {
-            "ExMate": "Fine-tuned Mistral 7B for Turkish dialogue analysis (3.2K samples)",
-            "MentorMate": "Built RAG chatbot serving 3,232 Q&As with <3s latency",
-            "HousePrices": "Production ML pipeline achieving 0.94 R² on Kaggle competition"
-        }
-        
-        self.learning_now = [
-            "Advanced RAG techniques (Reranking, Hybrid Search)",
-            "MLOps workflows (Docker, CI/CD, DVC)",
-            "LLM evaluation frameworks (Ragas, G-Eval)"
-        ]
     
     def say_hi(self):
-        return "I build AI systems that actually ship to production 🚀"
+        return "Building AI systems from research to production 🚀"
 ```
 
 ---
@@ -164,85 +152,58 @@ class MLEngineer:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Notable Projects
 
 <div align="center">
 
 ### 🎯 ExMate - Turkish Relationship Dialogue LLM
-**Fine-tuning Mistral 7B for culturally-aware Turkish conversations**
+**LoRA fine-tuning on Mistral 7B Instruct for Turkish WhatsApp dialogues**
 
-`PyTorch` • `LoRA (r=16, α=16)` • `Gemini 2.0 Flash` • `4-bit Quantization` • `3.2K dialogues`
+`PyTorch` • `LoRA (r=16, α=16)` • `Gemini 2.0 Flash` • `4-bit Quantization` • `GPU Optimized`
 
-**Problem**: No Turkish LLM understands relationship communication nuances  
-**Solution**: 
-- Fine-tuned Mistral 7B on 3,200 synthetic Turkish WhatsApp-style dialogues
-- Generated training data via Gemini 2.0 Flash with context-aware prompt engineering
-- Applied 4-bit quantization → 2.3x faster inference on consumer GPUs (8GB VRAM)
-
-**Key Features**:
-- Culturally-aware Turkish dialogue generation
-- Emotion detection in relationship contexts
-- De-escalation suggestion system
-
-**Impact**: Enables Turkish relationship counseling chatbots on affordable hardware
+- Fine-tuned Mistral 7B with LoRA for Turkish dialogue understanding
+- Synthetic data generation using Gemini 2.0 Flash API
+- Optimized training with 4-bit quantization for efficient GPU usage
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/ExMate)
 
 ---
 
-### 💬 MentorMate - Production RAG Chatbot
-**24/7 AI assistant for 150+ bootcamp participants**
+### 💬 MentorMate - RAG-Based FAQ Chatbot
+**Production-ready RAG system with semantic search**
 
-`LangChain` • `ChromaDB` • `MultiQueryRetriever` • `Gemini 2.0 Flash` • `Streamlit`
+`LangChain` • `ChromaDB` • `Sentence Transformers` • `MultiQueryRetriever` • `Streamlit`
 
-**Problem**: Bootcamp mentors answering the same 30 questions daily  
-**Solution**: 
-- Built RAG system with 3,232 Q&A pairs extracted from Zulip channel
-- Implemented semantic search using MultiQueryRetriever (5 query variants per question)
-- Deployed on Streamlit with <3s response time
-
-**Key Metrics**:
-- **Accuracy**: ~95% on in-domain questions
-- **Speed**: <3 seconds (vs 2-hour human response time)
-- **Hallucination Rate**: <5% (strict source verification)
-- **Keyword Coverage**: 40+ Turkish synonym mappings
-
-**Impact**: Reduced mentor workload by 85%, enabled 24/7 instant support
+- 3,232 Q&A pairs with <3 second response time
+- Semantic search using MultiQueryRetriever + MMR
+- 40+ keyword mapping for Turkish language support
+- Hallucination prevention with 384-dimensional embeddings
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/MentorMate-SSS)
 
 ---
 
 ### 📈 HousePrices - Production ML Pipeline
-**Modular regression pipeline achieving 0.94 R² (Kaggle validated)**
+**Modular regression pipeline with 0.94 R² on Kaggle**
 
 `scikit-learn` • `Feature Engineering` • `RidgeCV` • `Modular Architecture`
 
-**Problem**: Most ML projects are unstructured notebooks (hard to maintain/scale)  
-**Solution**: 
-- Built modular pipeline: `data → features → preprocess → model → eval → report`
-- Engineered features: TotalSF, Age, BathCount (↑12% RMSE improvement)
-- Automated reporting: JSON metrics + feature importance visualizations
-
-**Key Results**:
-- **R² Score**: 0.94 (local validation)
-- **Kaggle RMSLE**: 0.13049 (top 40% leaderboard)
-- **Extensibility**: Add new models in 3 lines of code
-
-**Impact**: Template for production-ready ML projects beyond competitions
+- End-to-end pipeline: data → features → preprocess → model → eval
+- Engineered features with automated reporting (JSON + visualizations)
+- Kaggle RMSLE: 0.13049 (validated)
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/HousePrices-ML-Pipeline)
 
 ---
 
 ### 🎵 PromptWave - Prompt-Driven Audio Generation
-**Text-based audio synthesis with custom DSP pipeline**
+**Text-based audio synthesis with DSP pipeline**
 
-`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `Digital Signal Processing`
+`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `DSP`
 
-- Engineered text-to-audio generation system using structured prompts
-- Implemented custom DSP pipeline for real-time audio processing
-- Supports multiple synthesis modes (sine, square, sawtooth waves)
+- Text-to-audio generation system using prompt engineering
+- Custom DSP pipeline for audio processing
+- Real-time audio synthesis capabilities
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/PromptWave)
 
