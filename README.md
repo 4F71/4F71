@@ -9,7 +9,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/onurtilki)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetonurt@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=58A6FF&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/4F71)
 
 </div>
 
@@ -17,50 +17,14 @@
 
 ## 🚀 About Me
 
-```python
-class MachineLearningEngineer:
-    def __init__(self):
-        self.name = "Mehmet Onur TİLKİ"
-        self.role = "Machine Learning Engineer"
-        self.location = "Ankara, Turkey 🇹🇷"
-        self.motto = "Specializing in data preparation, model training, and LLM fine-tuning"
-        
-        self.expertise = {
-            "languages": ["Python", "SQL"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "generative_ai": ["LoRA Fine-tuning", "RAG Systems", "Prompt Engineering"],
-            "llm_tools": ["LangChain", "Hugging Face", "Gemini API"],
-            "data_science": ["Pandas", "NumPy", "SciPy"],
-            "vector_db": ["ChromaDB", "Sentence Transformers (384-dim)"],
-            "deployment": ["FastAPI", "Streamlit", "Docker"],
-            "optimization": ["4-bit Quantization", "GPU Optimization", "API Rate Limiting"]
-        }
-        
-        self.current_projects = [
-            "🎯 ExMate - Turkish Relationship Dialogue Analysis (LoRA on Mistral 7B)",
-            "💬 MentorMate - Production RAG System (3,232 Q&A, <3s response)",
-            "🎵 PromptWave - Prompt-Driven Audio Generation"
-        ]
-        
-        self.learning = [
-            "Advanced LLM Fine-tuning Techniques",
-            "Production-ready ML Systems",
-            "MLOps & Model Deployment"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build intelligent systems together 🚀")
-
-me = MachineLearningEngineer()
-me.say_hi()
-```
-
 <div align="center">
 
-**🔭 Currently:** Building production-ready AI/ML solutions  
-**🌱 Learning:** Advanced LLM optimization & MLOps  
-**💡 Passionate about:** Generative AI, RAG architectures, and model fine-tuning  
-**📍 Based in:** Ankara, Turkey
+**Machine Learning Engineer** specializing in **data preparation, model training, and LLM fine-tuning**
+
+🔭 Building production-ready AI/ML solutions with **PyTorch**, **TensorFlow**, and **LangChain**  
+🧠 Focused on **Generative AI**, **RAG Systems**, and **LoRA Fine-tuning**  
+🎯 Currently working on **Turkish NLP** and **LLM optimization** projects  
+📍 Based in **Ankara, Turkey** 🇹🇷
 
 </div>
 
@@ -128,30 +92,12 @@ me.say_hi()
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💻 Language Usage
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/4F71">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/4F71">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -161,51 +107,42 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 💡 My Expertise Areas
+## 💡 ML Workflow & Expertise
 
 <div align="center">
 
 ```mermaid
-graph TB
-    A[Machine Learning Engineer] --> B[Data Preparation & Analysis]
-    A --> C[Model Training & Optimization]
-    A --> D[LLM Fine-tuning & Deployment]
+graph LR
+    A[📊 Data Collection] --> B[🔍 Data Preparation]
+    B --> C[⚙️ Feature Engineering]
+    C --> D[🤖 Model Training]
+    D --> E[📈 Evaluation & Tuning]
+    E --> F[🚀 Deployment]
+    F --> G[📊 Monitoring]
     
-    B --> B1[Pandas & NumPy]
-    B --> B2[Data Cleaning & EDA]
-    B --> B3[Feature Engineering]
+    B -.-> B1[Pandas/NumPy<br/>Data Cleaning]
+    C -.-> C1[Feature Selection<br/>Transformation]
+    D -.-> D1[PyTorch/TensorFlow<br/>LoRA Fine-tuning]
+    E -.-> E1[Hyperparameter<br/>Optimization]
+    F -.-> F1[FastAPI/Streamlit<br/>Docker]
+    G -.-> G1[Performance<br/>Metrics]
     
-    C --> C1[PyTorch & TensorFlow]
-    C --> C2[Hyperparameter Tuning]
-    C --> C3[Model Evaluation]
-    
-    D --> D1[LoRA Fine-tuning]
-    D --> D2[RAG Systems]
-    D --> D3[Production Deployment]
-    
-    style A fill:#58a6ff,stroke:#1f6feb,stroke-width:3px,color:#0d1117
-    style B fill:#7ee787,stroke:#2ea043,stroke-width:2px,color:#0d1117
-    style C fill:#ffa657,stroke:#d29922,stroke-width:2px,color:#0d1117
-    style D fill:#bc8cff,stroke:#8957e5,stroke-width:2px,color:#0d1117
-    
-    style B1 fill:#7ee787,stroke:#2ea043,color:#0d1117
-    style B2 fill:#7ee787,stroke:#2ea043,color:#0d1117
-    style B3 fill:#7ee787,stroke:#2ea043,color:#0d1117
-    
-    style C1 fill:#ffa657,stroke:#d29922,color:#0d1117
-    style C2 fill:#ffa657,stroke:#d29922,color:#0d1117
-    style C3 fill:#ffa657,stroke:#d29922,color:#0d1117
-    
-    style D1 fill:#bc8cff,stroke:#8957e5,color:#0d1117
-    style D2 fill:#bc8cff,stroke:#8957e5,color:#0d1117
-    style D3 fill:#bc8cff,stroke:#8957e5,color:#0d1117
+    style A fill:#7ee787,stroke:#2ea043,stroke-width:2px,color:#0d1117
+    style B fill:#58a6ff,stroke:#1f6feb,stroke-width:2px,color:#0d1117
+    style C fill:#58a6ff,stroke:#1f6feb,stroke-width:2px,color:#0d1117
+    style D fill:#ffa657,stroke:#d29922,stroke-width:2px,color:#0d1117
+    style E fill:#ffa657,stroke:#d29922,stroke-width:2px,color:#0d1117
+    style F fill:#bc8cff,stroke:#8957e5,stroke-width:2px,color:#0d1117
+    style G fill:#bc8cff,stroke:#8957e5,stroke-width:2px,color:#0d1117
 ```
+
+**🔄 End-to-End ML Pipeline:** From data collection to production deployment
 
 </div>
 
