@@ -2,6 +2,9 @@
 
 # 👨‍💻 Hi there, I'm Onur TİLKİ
 
+<!-- GITHUB_STATS:START -->
+<!-- GITHUB_STATS:END -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Specializing+in+LLM+Fine-tuning;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
