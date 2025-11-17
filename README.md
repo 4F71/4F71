@@ -6,7 +6,7 @@ This README is manually created. GitHub auto-generated stats are disabled.
 
 # 👨‍💻 Hi there, I'm Onur TİLKİ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Specializing+in+LLM+Fine-tuning;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Specializing+in+Production+AI;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
@@ -32,9 +32,9 @@ class MLEngineer:
         self.location = "Ankara, Turkey 🇹🇷"
         
         self.specializations = [
-            "Turkish NLP & LLM Fine-tuning (LoRA, QLoRA)",
-            "Production RAG Systems (LangChain + Vector DBs)",
-            "End-to-end ML Pipelines (Feature Engineering → Deployment)"
+            "Production RAG Systems (LangChain + Vector Databases)",
+            "LLM Fine-tuning & Optimization (LoRA, Quantization)",
+            "End-to-end ML Pipelines (Data → Model → Deployment)"
         ]
     
     def say_hi(self):
@@ -138,15 +138,15 @@ class MLEngineer:
 
 ---
 
-## 🎓 Certifications & Training
+## 🎓 Certifications
 
 <div align="center">
 
 | 🏆 Certification | 🚀 Project Outcome | 📅 Year |
 |:---|:---|:---:|
-| **Akbank Generative AI Bootcamp** | Built MentorMate RAG chatbot (3.2K Q&As, <3s latency, ~95% accuracy) | 2025 |
-| **Google AI Essentials** | Applied responsible AI principles in production LLM systems | 2025 |
-| **Deep Learning with Keras (BTK)** | Implemented CNN architectures for image classification tasks | 2025 |
+| **Akbank Generative AI Bootcamp** | Built production RAG chatbot (3.2K Q&As, <3s latency) | 2025 |
+| **Google AI Essentials** | Applied responsible AI principles in LLM systems | 2025 |
+| **Deep Learning with Keras (BTK)** | Implemented CNN architectures for classification | 2025 |
 
 </div>
 
@@ -156,54 +156,42 @@ class MLEngineer:
 
 <div align="center">
 
-### 🎯 ExMate - Turkish Relationship Dialogue LLM
-**LoRA fine-tuning on Mistral 7B Instruct for Turkish WhatsApp dialogues**
-
-`PyTorch` • `LoRA (r=16, α=16)` • `Gemini 2.0 Flash` • `4-bit Quantization` • `GPU Optimized`
-
-- Fine-tuned Mistral 7B with LoRA for Turkish dialogue understanding
-- Synthetic data generation using Gemini 2.0 Flash API
-- Optimized training with 4-bit quantization for efficient GPU usage
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/ExMate)
-
----
-
-### 💬 MentorMate - RAG-Based FAQ Chatbot
-**Production-ready RAG system with semantic search**
+### 💬 MentorMate - Production RAG Chatbot
+**Intelligent FAQ system for bootcamp participants**
 
 `LangChain` • `ChromaDB` • `Sentence Transformers` • `MultiQueryRetriever` • `Streamlit`
 
-- 3,232 Q&A pairs with <3 second response time
-- Semantic search using MultiQueryRetriever + MMR
-- 40+ keyword mapping for Turkish language support
-- Hallucination prevention with 384-dimensional embeddings
+- Semantic search across 3,232 Q&A pairs with <3 second response time
+- MultiQueryRetriever + MMR for improved retrieval accuracy (~95%)
+- 40+ keyword mappings with hallucination prevention (<5% error rate)
+- Deployed on Streamlit for 150+ concurrent users
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/MentorMate-SSS)
 
 ---
 
 ### 📈 HousePrices - Production ML Pipeline
-**Modular regression pipeline with 0.94 R² on Kaggle**
+**Modular regression system with Kaggle validation**
 
-`scikit-learn` • `Feature Engineering` • `RidgeCV` • `Modular Architecture`
+`scikit-learn` • `Feature Engineering` • `RidgeCV` • `Automated Reporting`
 
-- End-to-end pipeline: data → features → preprocess → model → eval
-- Engineered features with automated reporting (JSON + visualizations)
-- Kaggle RMSLE: 0.13049 (validated)
+- End-to-end pipeline: data ingestion → feature engineering → training → evaluation
+- Custom features (TotalSF, Age, BathCount) improving RMSE by 12%
+- Automated JSON metrics + feature importance visualization
+- **Kaggle Score**: 0.13049 RMSLE (0.94 R² local validation)
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/HousePrices-ML-Pipeline)
 
 ---
 
 ### 🎵 PromptWave - Prompt-Driven Audio Generation
-**Text-based audio synthesis with DSP pipeline**
+**Text-to-audio synthesis with DSP pipeline**
 
-`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `DSP`
+`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `Digital Signal Processing`
 
-- Text-to-audio generation system using prompt engineering
-- Custom DSP pipeline for audio processing
-- Real-time audio synthesis capabilities
+- Structured prompt-based audio generation system
+- Custom DSP pipeline supporting multiple waveform types
+- Real-time synthesis with configurable parameters
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/PromptWave)
 
@@ -219,21 +207,10 @@ class MLEngineer:
 
 <div align="center">
 
-### 💼 What I Bring to Your Team
+### 💼 Open to opportunities in:
 
-🔥 **Turkish NLP Specialist** - Native speaker building production Turkish LLM systems  
-⚡ **Production-Ready AI** - From Jupyter notebooks to Streamlit/FastAPI deployments  
-🎯 **Cost-Efficient ML** - LoRA fine-tuning + 4-bit quantization for affordable scaling  
-🧪 **Research → Production** - Transforming experiments into systems serving 100+ users
-
-### 🎯 Actively Seeking
-
-**Senior ML Engineer** | **NLP Engineer** | **LLM Engineer**  
-**Generative AI Developer** | **AI/ML Researcher** | **MLOps Engineer**
-
-**Focus Areas**: LLM fine-tuning, RAG systems, Turkish NLP, production ML pipelines
-
-📍 **Location**: Ankara, Turkey | 🌍 **Remote**: Available worldwide
+**Machine Learning Engineer** • **NLP Engineer** • **LLM Engineer**  
+**AI/ML Researcher** • **Generative AI Developer** • **MLOps Engineer**
 
 ---
 
