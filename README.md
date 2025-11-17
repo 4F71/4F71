@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Data+Scientist;AI+Enthusiast;Machine+Learning+Developer;Generative+AI+Explorer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Developer;Machine+Learning+Engineer;Generative+AI+Explorer;Creative+AI+Projects)](https://git.io/typing-svg)
   
-  🎯 **Python | SQL | Machine Learning | Generative AI**
+  🎯 **AI & ML Developer | Python | Machine Learning | Generative AI**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=KULLANICIADIN&color=blueviolet&style=for-the-badge)](https://github.com/KULLANICIADIN)
+  [![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=blueviolet&style=for-the-badge)](https://github.com/4F71)
   
 </div>
 
@@ -16,10 +16,10 @@
 ## 🧠 Hakkımda / About Me
 
 **TR:**  
-Veriyi anlamlı içgörülere dönüştürmeye ve **AI ile yaratıcı projeler üretmeye** tutkuluyum. Analitik düşünceyi, makine öğrenimi ve yapay zekâyla birleştirerek çözüm odaklı sistemler geliştiriyorum. Her hafta yeni bir proje ile öğrenmeye ve paylaşmaya devam ediyorum! 🚀
+**AI ve Makine Öğrenimi ile yenilikçi çözümler** geliştiren bir yazılım geliştiriciyim. Yapay zeka teknolojilerini kullanarak yaratıcı projeler üretiyor ve çözüm odaklı sistemler inşa ediyorum. Her hafta yeni bir proje ile öğrenmeye ve paylaşmaya devam ediyorum! 🚀
 
 **EN:**  
-I'm passionate about transforming **data into meaningful insights** and building **creative AI projects**. I combine analytical thinking with machine learning and AI to develop solution-oriented systems. Learning and sharing through new projects every week! 🚀
+I'm an **AI & ML Developer** building innovative solutions with artificial intelligence and machine learning. I create creative projects using AI technologies and develop solution-oriented systems. Learning and sharing through new projects every week! 🚀
 
 ---
 
@@ -27,11 +27,11 @@ I'm passionate about transforming **data into meaningful insights** and building
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADIN&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
   
 </div>
 
@@ -41,7 +41,7 @@ I'm passionate about transforming **data into meaningful insights** and building
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=KULLANICIADIN&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=4F71&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
@@ -91,7 +91,7 @@ I'm passionate about transforming **data into meaningful insights** and building
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&theme=tokyo-night&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true)
   
 </div>
 
@@ -102,8 +102,8 @@ I'm passionate about transforming **data into meaningful insights** and building
 <!-- Buraya en iyi 2-3 projenizi pinleyebilirsiniz -->
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICIADIN&repo=REPO_ADI_1&theme=tokyonight&hide_border=true)](https://github.com/KULLANICIADIN/REPO_ADI_1)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICIADIN&repo=REPO_ADI_2&theme=tokyonight&hide_border=true)](https://github.com/KULLANICIADIN/REPO_ADI_2)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=4F71&repo=REPO_ADI_1&theme=tokyonight&hide_border=true)](https://github.com/4F71/REPO_ADI_1)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=4F71&repo=REPO_ADI_2&theme=tokyonight&hide_border=true)](https://github.com/4F71/REPO_ADI_2)
   
 </div>
 
@@ -124,7 +124,7 @@ I'm passionate about transforming **data into meaningful insights** and building
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EPOSTA@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICIADIN)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
   
   **✉️ Açık işbirliklerine ve AI projelerine açığım!**  
   **Open to collaborations & creative AI projects!**
@@ -144,6 +144,6 @@ I'm passionate about transforming **data into meaningful insights** and building
   ⭐️ **Projelerimi beğendiyseniz yıldız vermeyi unutmayın!**  
   **If you like my projects, don't forget to star them!** ⭐️
   
-  ![Snake animation](https://raw.githubusercontent.com/KULLANICIADIN/KULLANICIADIN/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/4F71/4F71/output/github-contribution-grid-snake.svg)
   
 </div>
