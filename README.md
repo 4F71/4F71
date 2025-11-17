@@ -86,9 +86,6 @@ class MLEngineer:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### ⚡ Optimization
-
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![GPU Optimization](https://img.shields.io/badge/GPU_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![4-bit Quantization](https://img.shields.io/badge/4--bit_Quantization-EC4899?style=for-the-badge&logoColor=white)
@@ -101,11 +98,16 @@ class MLEngineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<a href="https://github.com/4F71">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<a href="https://github.com/4F71">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+</a>
 
 </div>
 
