@@ -1,9 +1,10 @@
+<!--
+This README is manually created. GitHub auto-generated stats are disabled.
+-->
+
 <div align="center">
 
 # 👨‍💻 Hi there, I'm Onur TİLKİ
-
-<!-- GITHUB_STATS:START -->
-<!-- GITHUB_STATS:END -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Specializing+in+LLM+Fine-tuning;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
@@ -13,6 +14,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetonurt@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/4F71)
+
+<br/>
+<br/>
 
 </div>
 
