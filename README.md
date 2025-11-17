@@ -20,11 +20,10 @@ class AIMLDeveloper:
         self.name = "Onur TİLKİ"
         self.role = "AI & Machine Learning Developer"
         self.languages = ["Python", "SQL"]
-        self.current_focus = [
-            "Building ML models",
-            "Generative AI applications",
-            "End-to-end ML pipelines"
-        ]
+        self.ml_frameworks = ["PyTorch", "TensorFlow", "Scikit-learn"]
+        self.generative_ai = ["LangChain", "RAG", "LoRA Fine-tuning", "Hugging Face"]
+        self.current_project = "ExMate - Turkish Relationship Dialogue Analysis LLM"
+        self.tools = ["ChromaDB", "Streamlit", "FastAPI", "Docker", "Gemini API"]
         self.motto = "Learn by building, grow by sharing"
     
     def say_hi(self):
@@ -62,7 +61,8 @@ me.say_hi()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### Data Science & Visualization
 
@@ -91,10 +91,14 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -124,26 +128,11 @@ me.say_hi()
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((AI/ML))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Model Optimization
-    Deep Learning
-      Neural Networks
-      CNNs
-      RNNs
-    Generative AI
-      LLMs
-      Image Generation
-      Text Generation
-    Data Science
-      EDA
-      Feature Engineering
-      Visualization
-```
+| 🤖 Machine Learning | 🧠 Deep Learning | ✨ Generative AI | 📊 Data Science |
+|:---:|:---:|:---:|:---:|
+| Supervised Learning | Neural Networks | LLMs (PyTorch, TensorFlow) | Data Analysis |
+| Unsupervised Learning | CNNs & RNNs | RAG (LangChain) | Feature Engineering |
+| Model Optimization | Transfer Learning | LoRA Fine-tuning | Visualization |
 
 </div>
 
@@ -153,11 +142,12 @@ mindmap
 
 <div align="center">
 
-### 🚧 Building awesome projects - Coming Soon! 🚧
+### 🚀 ExMate - Turkish Relationship Dialogue Analysis LLM
+**AI-powered relationship dialogue analyzer using Large Language Models**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4F71&repo=machine-learning-projects&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/4F71)
+_Building cutting-edge AI projects - More coming soon!_ 🎯
 
-_Stay tuned for exciting AI/ML projects!_
+[![View Projects](https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71?tab=repositories)
 
 </div>
 
