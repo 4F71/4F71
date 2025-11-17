@@ -17,16 +17,25 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-**Machine Learning Engineer** specializing in **data preparation, model training, and LLM fine-tuning**
-
-🔭 Building production-ready AI/ML solutions with **PyTorch**, **TensorFlow**, and **LangChain**  
-🧠 Focused on **Generative AI**, **RAG Systems**, and **LoRA Fine-tuning**  
-🎯 Currently working on **Turkish NLP** and **LLM optimization** projects  
-📍 Based in **Ankara, Turkey** 🇹🇷
-
-</div>
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Mehmet Onur TİLKİ"
+        self.role = "Machine Learning Engineer"
+        self.location = "Ankara, Turkey 🇹🇷"
+        
+        self.focus = [
+            "Data Preparation & Feature Engineering",
+            "Model Training & Fine-tuning (PyTorch, TensorFlow)",
+            "LLM Fine-tuning with LoRA & RAG Systems",
+            "Production ML Deployment (FastAPI, Streamlit)"
+        ]
+        
+        self.current = "Building Turkish NLP & Generative AI solutions"
+    
+    def say_hi(self):
+        return "Let's build intelligent systems together! 🚀"
+```
 
 ---
 
@@ -228,8 +237,8 @@ graph LR
 
 ### 💼 Open to opportunities in:
 
-**Machine Learning Engineering** • **AI/ML Research** • **LLM Fine-tuning**  
-**RAG Systems** • **Generative AI** • **Production ML Deployment**
+**Machine Learning Engineer** • **NLP Engineer** • **LLM Engineer**  
+**AI/ML Researcher** • **Generative AI Developer** • **MLOps Engineer**
 
 ---
 
@@ -246,6 +255,6 @@ graph LR
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-58a6ff?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-58a6ff?style=flat-square)
 
 </div>
