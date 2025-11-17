@@ -101,8 +101,11 @@ class MLEngineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
@@ -113,41 +116,6 @@ class MLEngineer:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 💡 ML Workflow & Expertise
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📊 Data Collection] --> B[🔍 Data Preparation]
-    B --> C[⚙️ Feature Engineering]
-    C --> D[🤖 Model Training]
-    D --> E[📈 Evaluation & Tuning]
-    E --> F[🚀 Deployment]
-    F --> G[📊 Monitoring]
-    
-    B -.-> B1[Pandas/NumPy<br/>Data Cleaning]
-    C -.-> C1[Feature Selection<br/>Transformation]
-    D -.-> D1[PyTorch/TensorFlow<br/>LoRA Fine-tuning]
-    E -.-> E1[Hyperparameter<br/>Optimization]
-    F -.-> F1[FastAPI/Streamlit<br/>Docker]
-    G -.-> G1[Performance<br/>Metrics]
-    
-    style A fill:#7ee787,stroke:#2ea043,stroke-width:2px,color:#0d1117
-    style B fill:#58a6ff,stroke:#1f6feb,stroke-width:2px,color:#0d1117
-    style C fill:#58a6ff,stroke:#1f6feb,stroke-width:2px,color:#0d1117
-    style D fill:#ffa657,stroke:#d29922,stroke-width:2px,color:#0d1117
-    style E fill:#ffa657,stroke:#d29922,stroke-width:2px,color:#0d1117
-    style F fill:#bc8cff,stroke:#8957e5,stroke-width:2px,color:#0d1117
-    style G fill:#bc8cff,stroke:#8957e5,stroke-width:2px,color:#0d1117
-```
-
-**🔄 End-to-End ML Pipeline:** From data collection to production deployment
 
 </div>
 
@@ -251,6 +219,6 @@ graph LR
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-58a6ff?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-58a6ff?style=flat-square)
 
 </div>
