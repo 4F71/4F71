@@ -99,15 +99,14 @@ class MLEngineer:
 <div align="center">
 
 <a href="https://github.com/4F71">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/4F71">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
 </a>
 
 </div>
