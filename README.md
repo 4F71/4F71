@@ -96,28 +96,16 @@ class MLEngineer:
 
 ## 📊 GitHub Statistics
 
-<details>
-  <summary><b>📊 Onur TİLKİ's GitHub Stats</b></summary>
-  
-  <div align="center">
-    
-    ### Onur TİLKİ's GitHub Stats
-    
-    ⭐ **Total Stars Earned:** 4  
-    🔄 **Total Commits:** 73  
-    🔀 **Total PRs:** 1  
-    ⚠️ **Total Issues:** 0  
-    📊 **Contributed to (last year):** 0
-    
-    ![GitHub Streak](link)
-    
-    ### Most Used Languages
-    
-    🟧 Jupyter Notebook 77.21%  
-    🟦 Python 22.79%
-    
-  </div>
-</details>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4F71&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
