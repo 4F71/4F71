@@ -38,7 +38,7 @@ class MLEngineer:
         ]
     
     def say_hi(self):
-        return "Building AI systems from research to production 🚀"
+        return "Building AI systems from research to production "
 ```
 
 ---
