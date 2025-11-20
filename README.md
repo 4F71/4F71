@@ -111,6 +111,7 @@ class MLEngineer:
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=4F71&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&rank_icon=github)
 </div>
 
 ---
