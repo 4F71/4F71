@@ -97,12 +97,11 @@ class MLEngineer:
 
 ## 📊 GitHub Statistics
 
+> **Note:** GitHub stats are displayed in the native profile view above. External stats widgets may experience temporary loading issues.
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&hide_border=false&background=161B22&ring=FF1744&fire=FF1744&currStreakNum=FFD700&sideNums=FF1744&currStreakLabel=FFD700&sideLabels=FF1744&dates=8B949E">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&hide_border=false&background=161B22&ring=FF1744&fire=FF1744&currStreakNum=FFD700&sideNums=FF1744&currStreakLabel=FFD700&sideLabels=FF1744&dates=8B949E" alt="GitHub Streak" width="100%">
-</picture>
+**🔥 Current Streak: 5 days** | **⭐ Total Contributions: 158** | **📅 Longest Streak: 5 days**
 
 </div>
 
