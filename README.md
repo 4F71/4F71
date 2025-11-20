@@ -1,8 +1,12 @@
+<!--
+This README is manually created. GitHub auto-generated stats are disabled.
+-->
+
 <div align="center">
 
 # 👨‍💻 Hi there, I'm Onur TİLKİ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Specializing+in+LLM+Fine-tuning;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Specializing+in+Production+AI;Python+%7C+PyTorch+%7C+TensorFlow;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
@@ -10,6 +14,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetonurt@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/4F71)
+
+<br/>
+<br/>
 
 </div>
 
@@ -19,19 +26,19 @@
 
 ```python
 class MLEngineer:
-    def __init__(self):
-        self.name = "Onur TİLKİ"
-        self.role = "AI & ML Developer"
-        self.location = "Ankara, Turkey 🇹🇷"
-        
-        self.specializations = [
-            "Production RAG Systems (LangChain + Vector DBs)",
-            "LLM Fine-tuning & Optimization (LoRA, Quantization)",
-            "End-to-end ML Pipelines (Data → Model → Deployment)"
-        ]
-    
-    def say_hi(self):
-        return "Building AI systems from research to production 🚀"
+def __init__(self):
+self.name = "Onur TİLKİ"
+self.role = "AI & ML Engineer"
+self.location = "Ankara, Turkey 🇹🇷"
+
+self.specializations = [
+"Production RAG Systems (LangChain + Vector Databases)",
+"LLM Fine-tuning & Optimization (LoRA, Quantization)",
+"End-to-end ML Pipelines (Data → Model → Deployment)"
+]
+
+def say_hi(self):
+return "Building AI systems from research to production "
 ```
 
 ---
@@ -43,6 +50,7 @@ class MLEngineer:
 ### 💻 Programming & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
@@ -65,10 +73,8 @@ class MLEngineer:
 
 ### 🗄️ Databases
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
 ### 📊 Visualization
 
@@ -84,9 +90,6 @@ class MLEngineer:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### ⚡ Optimization
-
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![GPU Optimization](https://img.shields.io/badge/GPU_Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![4-bit Quantization](https://img.shields.io/badge/4--bit_Quantization-EC4899?style=for-the-badge&logoColor=white)
@@ -97,25 +100,37 @@ class MLEngineer:
 
 ## 📊 GitHub Statistics
 
-> **Note:** GitHub stats are displayed in the native profile view above. External stats widgets may experience temporary loading issues.
-
 <div align="center">
 
-**🔥 Current Streak: 5 days** | **⭐ Total Contributions: 158** | **📅 Longest Streak: 5 days**
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=600&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" 
+alt="4F71 GitHub Stats" 
+/>
 
 </div>
 
+
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=4F71&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" 
+  alt="GitHub Trophies" 
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+  alt="GitHub Streak Stats" 
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -176,7 +191,7 @@ class MLEngineer:
 ### 🎵 PromptWave - Prompt-Driven Audio Generation
 **Text-to-audio synthesis with DSP pipeline**
 
-`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `DSP`
+`Python` • `NumPy` • `SciPy` • `Prompt Engineering` • `Digital Signal Processing`
 
 - Structured prompt-based audio generation system
 - Custom DSP pipeline supporting multiple waveform types
@@ -216,6 +231,6 @@ class MLEngineer:
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202024-58a6ff?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-58a6ff?style=flat-square)
 
 </div>
