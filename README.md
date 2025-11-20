@@ -100,13 +100,8 @@ class MLEngineer:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800">
-  <img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="495">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&cache_seconds=1800">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&cache_seconds=1800" alt="GitHub Streak" width="495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&hide_border=false&background=161B22&ring=FF1744&fire=FF1744&currStreakNum=FFD700&sideNums=FF1744&currStreakLabel=FFD700&sideLabels=FF1744&dates=8B949E">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&hide_border=false&background=161B22&ring=FF1744&fire=FF1744&currStreakNum=FFD700&sideNums=FF1744&currStreakLabel=FFD700&sideLabels=FF1744&dates=8B949E" alt="GitHub Streak" width="100%">
 </picture>
 
 </div>
