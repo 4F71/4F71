@@ -117,12 +117,17 @@ class MLEngineer:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=4F71&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" 
+  alt="GitHub Trophies" 
+/>
 
 <br/>
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+  alt="GitHub Streak Stats" 
+/>
 
 </div>
 
