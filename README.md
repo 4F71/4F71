@@ -99,10 +99,15 @@ class MLEngineer:
 
 <div align="center">
 
-<a href="https://github.com/4F71">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="495">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&cache_seconds=1800">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=radical&cache_seconds=1800" alt="GitHub Streak" width="495">
+</picture>
 
 </div>
 
