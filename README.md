@@ -98,7 +98,7 @@ class MLEngineer:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=4F71&theme=radical&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=4F71&theme=radical)
 
 </div>
 
