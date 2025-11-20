@@ -102,12 +102,19 @@ class MLEngineer:
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=radical) ![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&hide=contribs&rank_icon=default)
 
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=darkhub&no-frame=true&no-bg=true&row=2&column=6)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=onedark&no-frame=true&no-bg=true&row=2&column=6)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=gruvbox&no-frame=true&no-bg=true&row=2&column=6&margin-w=15)
+---
 ![](https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6)
+---
 </div>
 
 ---
