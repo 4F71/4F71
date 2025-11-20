@@ -94,11 +94,11 @@ class MLEngineer:
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
+![GitHub Streak](https://streak-stats.demolab.com/?user=4F71&theme=radical&hide_border=false)
 
 </div>
 
