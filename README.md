@@ -100,12 +100,9 @@ class MLEngineer:
 
 
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&rank_icon=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4F71&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&hide=contribs&rank_icon=default)
-![](https://metrics.lecoq.io/4F71?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&config.timezone=Europe%2FIstanbul)
 
-![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&hide=contribs&rank_icon=default)
+
 </div>
 
 ---
