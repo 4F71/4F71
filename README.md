@@ -115,11 +115,16 @@ class MLEngineer:
 
 ## 🏆 GitHub Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=algolia&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=4F71&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4F71&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
 
 ## 📈 Contribution Activity
 
