@@ -98,13 +98,14 @@ class MLEngineer:
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117)
 
-![](https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=radical&hide=contribs&rank_icon=default)
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=radical) 
----
-![](https://github-profile-trophy.vercel.app/?username=4F71&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
 ---
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=4F71&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15)
+
+---
 </div>
 
 ---
