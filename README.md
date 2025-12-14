@@ -130,7 +130,7 @@ class MLEngineer:
 | **Akbank Generative AI Bootcamp** | Built production RAG chatbot (3.2K Q&As, <3s latency) | 2025 |
 | **Google AI Essentials** | Applied responsible AI principles in LLM systems | 2025 |
 | **Deep Learning with Keras (BTK)** | Implemented CNN architectures for classification | 2025 |
-
+|
 </div>
 
 ---
