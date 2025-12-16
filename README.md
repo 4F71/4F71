@@ -2,14 +2,14 @@
 
 # Hi there, I'm Onur TİLKİ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39d353&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Production+ML+Systems;LLM+%7C+RAG+%7C+Deployment;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Production+ML+Systems;LLM+%7C+RAG+%7C+Deployment;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/onurtilki)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetonurt@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=39d353&style=flat-square&label=Profile+Views)](https://github.com/4F71)
+[![Profile Views](https://komarev.com/ghpvc/?username=4F71&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/4F71)
 
 </div>
 
@@ -21,17 +21,24 @@
 class MLEngineer:
     def __init__(self):
         self.name = "Onur TİLKİ"
-        self.role = "AI & ML Developer"
+        self.role = "Machine Learning Engineer"
         self.location = "Ankara, Turkey 🇹🇷"
         
-        self.specializations = [
+        # Production impact & achievements
+        self.production_systems = {
+            "rag_chatbot": "3.2K Q&As, 150+ users, <3s latency, 95% accuracy",
+            "ml_model": "F1: 0.78 on 3M+ samples, deployed on HF Spaces",
+            "kaggle": "Top 15% (House Prices - 0.13 RMSLE)"
+        }
+        
+        self.core_expertise = [
+            "End-to-end ML Pipelines (Data → Model → Production)",
             "Production RAG Systems (LangChain + Vector DBs)",
-            "LLM Fine-tuning & Optimization (LoRA, Quantization)",
-            "End-to-end ML Pipelines (Data → Model → Deployment)"
+            "Model Deployment (Docker, Streamlit, FastAPI, HF Spaces)"
         ]
     
-    def say_hi(self):
-        return "Building AI systems from research to production "
+    def current_focus(self):
+        return "Building ML systems that solve real problems with measurable impact 🎯"
 ```
 
 ---
@@ -98,7 +105,7 @@ class MLEngineer:
 
 <div align="center">
 
-### Instacart Market Basket Analysis
+### 🛒 Instacart Market Basket Analysis
 **Binary classification for customer reorder prediction**
 
 `LightGBM` • `Docker` • `Streamlit` • `Feature Engineering` • `Class Imbalance Handling`
@@ -114,7 +121,7 @@ class MLEngineer:
 
 ---
 
-### MentorMate - Production RAG Chatbot
+### 💬 MentorMate - Production RAG Chatbot
 **Intelligent FAQ system for bootcamp participants**
 
 `LangChain` • `ChromaDB` • `Sentence Transformers` • `MultiQueryRetriever` • `Streamlit`
@@ -128,7 +135,7 @@ class MLEngineer:
 
 ---
 
-### HousePrices - Production ML Pipeline
+### 📈 HousePrices - Production ML Pipeline
 **Modular regression system with Kaggle validation**
 
 `scikit-learn` • `Feature Engineering` • `RidgeCV` • `Automated Reporting`
@@ -152,11 +159,11 @@ class MLEngineer:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=C9D1D9&count_private=true" alt="4F71 Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&bg_color=0d1117&color=39d353&line=39d353&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
@@ -180,7 +187,7 @@ class MLEngineer:
 
 <div align="center">
 
-### Open to opportunities in:
+### 💼 Open to opportunities in:
 
 **Machine Learning Engineer** • **NLP Engineer** • **LLM Engineer**  
 **AI/ML Researcher** • **Generative AI Developer** • **MLOps Engineer**
@@ -192,14 +199,14 @@ class MLEngineer:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/onurtilki)
 [![GitHub](https://img.shields.io/badge/GitHub-@4F71-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
 
-### Best way to reach me: **mehmetonurt@gmail.com**
+### 📧 Best way to reach me: **mehmetonurt@gmail.com**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-39d353?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-7aa2f7?style=flat-square)
 
 </div>
