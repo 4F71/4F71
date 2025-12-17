@@ -157,12 +157,22 @@ class MLEngineer:
 
 ## GitHub Statistics
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" /><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4F71&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
+</p>
 
 ---
 
