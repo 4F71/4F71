@@ -2,7 +2,8 @@
 
 # Hi there, I'm Onur TİLKİ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Production+ML+Systems;LLM+%7C+RAG+%7C+Deployment;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Developer;End-to-End+ML+Systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
@@ -18,29 +19,22 @@
 ## About Me
 
 ```python
-class MLEngineer:
+class AIMLDeveloper:
     def __init__(self):
         self.name = "Onur TİLKİ"
-        self.role = "Machine Learning Engineer"
-        self.location = "Ankara, Turkey 🇹🇷"
-        
-        # Production impact & achievements
-        self.production_systems = {
-            "rag_chatbot": "3.2K Q&As, 150+ users, <3s latency, 95% accuracy",
-            "ml_model": "F1: 0.78 on 3M+ samples, deployed on HF Spaces",
-            "kaggle": "Top 15% (House Prices - 0.13 RMSLE)"
-        }
-        
-        self.core_expertise = [
-            "End-to-end ML Pipelines (Data → Model → Production)",
-            "Production RAG Systems (LangChain + Vector DBs)",
-            "Model Deployment (Docker, Streamlit, FastAPI, HF Spaces)"
-        ]
-    
-    def current_focus(self):
-        return "Building ML systems that solve real problems with measurable impact 🎯"
-```
+        self.role = "AI / ML Developer"
+        self.location = "Ankara, Turkey"
 
+        self.core_expertise = [
+            "End-to-end ML pipelines (data → model → deployment)",
+            "RAG-based systems and LLM integrations",
+            "Production-oriented development mindset"
+        ]
+
+    def current_focus(self):
+        return "Designing practical AI systems with real-world constraints"
+
+```
 ---
 
 ## Tech Stack
