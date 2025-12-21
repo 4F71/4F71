@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Developer;End-to-End+ML+Systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurtilki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/onurtilki)
