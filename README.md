@@ -18,6 +18,8 @@
 
 ---
 
+
+
 ## About Me
 
 ```python
@@ -96,6 +98,7 @@ class AIMLDeveloper:
 </div>
 
 ---
+
 
 ## Notable Projects
 
