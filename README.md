@@ -18,8 +18,6 @@
 
 ---
 
-
-
 ## About Me
 
 ```python
