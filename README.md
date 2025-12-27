@@ -211,6 +211,6 @@ class AIMLDeveloper:
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202024-7aa2f7?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-7aa2f7?style=flat-square)
 
 </div>
