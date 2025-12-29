@@ -157,10 +157,10 @@ class AIMLDeveloper:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4F71&theme=tokyonight&hide_border=true&background=0d1117&date=20241229" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=4F71&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
