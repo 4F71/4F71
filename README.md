@@ -28,9 +28,9 @@ class AIMLDeveloper:
         self.location = "Ankara, Turkey"
 
         self.core_expertise = [
-            "End-to-end ML pipelines (data → model → deployment)",
-            "RAG-based systems and LLM integrations",
-            "Production-oriented development mindset"
+            "End-to-End ML Systems & Generative AI",
+            "RAG Pipelines & LLM Integrations",
+            "AI Data Annotation & Evaluation"
         ]
 
     def current_focus(self):
@@ -98,60 +98,6 @@ class AIMLDeveloper:
 ---
 
 
-## Notable Projects
-
-<div align="center">
-
-### 🛒 Instacart Market Basket Analysis
-**Binary classification for customer reorder prediction**
-
-`LightGBM` • `Docker` • `Streamlit` • `Feature Engineering` • `Class Imbalance Handling`
-
-- F1 Score: **0.78** | Recall: **91%** | Precision: **69%** on 3M+ samples
-- 15+ engineered features (user history, product popularity, temporal patterns)
-- Complete ML pipeline: EDA → Baseline → Feature Engineering → Production
-- Dockerized deployment on Hugging Face Spaces with interactive demo
-
-[![Model Card](https://img.shields.io/badge/📄_Model_Card-Documentation-blue?style=for-the-badge)](https://github.com/4F71/instacart-next-product-recommendation/blob/main/docs/model_card.md)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/instacart-next-product-recommendation)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/4F71/instacart-reorder-prediction)
-
----
-
-### 💬 MentorMate - Production RAG Chatbot
-**Intelligent FAQ system for bootcamp participants**
-
-`LangChain` • `ChromaDB` • `Sentence Transformers` • `MultiQueryRetriever` • `Streamlit`
-
-- Semantic search across 3,232 Q&A pairs with <3 second response time
-- MultiQueryRetriever + MMR for improved retrieval accuracy (~95%)
-- 40+ keyword mappings with hallucination prevention (<5% error rate)
-- Deployed on Streamlit for 150+ concurrent users
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/MentorMate-SSS)
-
----
-
-### 📈 HousePrices - Production ML Pipeline
-**Modular regression system with Kaggle validation**
-
-`scikit-learn` • `Feature Engineering` • `RidgeCV` • `Automated Reporting`
-
-- End-to-end pipeline: data ingestion → feature engineering → training → evaluation
-- Custom features (TotalSF, Age, BathCount) improving RMSE by 12%
-- Automated JSON metrics + feature importance visualization
-- **Kaggle Score**: 0.13049 RMSLE (0.94 R² local validation)
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71/HousePrices-ML-Pipeline)
-
----
-
-[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4F71?tab=repositories)
-
-</div>
-
----
-
 ## GitHub Statistics
 
 <table align="center">
@@ -172,20 +118,6 @@ class AIMLDeveloper:
 </p>
 ---
 
-## Certifications
-
-<div align="center">
-
-| Certification | Project Outcome | Year |
-|:---|:---|:---:|
-| **MultiAcademy - Zero2End Machine Learning Bootcamp** | Certificate of Excellence; Outstanding Project Performance | 2026 |
-| **Akbank Generative AI Bootcamp** | Built production RAG chatbot (3.2K Q&As, <3s latency) | 2025 |
-| **Google AI Essentials** | Applied responsible AI principles in LLM systems | 2025 |
-| **Deep Learning with Keras (BTK)** | Implemented CNN architectures for classification | 2025 |
-
-</div>
-
----
 
 ## Let's Connect!
 
@@ -210,7 +142,5 @@ class AIMLDeveloper:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
 
 **⭐ If you find my projects interesting, feel free to star them!**
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-7aa2f7?style=flat-square)
 
 </div>
