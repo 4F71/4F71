@@ -12,9 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@7ad077f4629b914c03a0a12942c13d1f13150727
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: 4F71
-          THEME: github_dark
